@@ -299,6 +299,7 @@ li::marker{
     border-radius: 50%;
     animation: animate 3s ease infinite ;
     display: none;
+    z-index: -1;
 }
 @keyframes animate{
     0%{
